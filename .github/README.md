@@ -6,7 +6,7 @@ This document will walk you through the usage of this template step-by-step to c
 
 First of all, download this template by clicking on the green "Code" button at the top of the page.
 
-Next, click "Download ZIP", and save the file to your compter.
+Next, click "Download ZIP", and save the file to your computer.
 
 You'll then want to unzip this folder onto anywhere on your computer, rename it to whatever you want to name your pack, and open the folder.
 
@@ -26,7 +26,7 @@ After you have entered the pack folder, open the file `manifest.json` with a tex
 
 ### Step 3: Icon
 
-You *can* skip this step, although I would advise that you still create your own icon to differenciate your preset from others
+You *can* skip this step, although I would advise that you still create your own icon to differentiate your preset from others
 
     0. Make sure that you already have a pack icon ready (This icon must be 500x500 resolution)
 
