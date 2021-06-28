@@ -1,6 +1,6 @@
 # OSBES Preset Template
 
-This document will walk you through the usage of this template step-by-step to create your own custom OSBES edits
+This document will walk you through the usage of this template step-by-step to create your own custom OSBES presets.
 
 ### Step 1: Template Download
 
@@ -26,7 +26,7 @@ After you have entered the pack folder, open the file `manifest.json` with a tex
 
 ### Step 3: Icon
 
-You *can* skip this step, although I would advise that you still create your own icon to differentiate your preset from others
+You *can* skip this step, although I would advise that you still create your own icon to differentiate your preset from others.
 
     0. Make sure that you already have a pack icon ready (This icon must be 500x500 resolution)
 
