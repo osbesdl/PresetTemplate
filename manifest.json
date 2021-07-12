@@ -16,10 +16,5 @@
     ],
     "metadata": {
       "authors": ["YOUR NAME"]
-    },
-	"dependencies": [
-		{
-            "uuid": "67010235-00f4-0484-8b1d-80b110011997"
-		}
-	]
+    }
 }
