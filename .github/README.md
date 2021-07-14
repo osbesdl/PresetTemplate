@@ -24,6 +24,12 @@ After you have entered the pack folder, open the file `manifest.json` with a tex
 
 - Replace `YOUR NAME` with your username, or whatever you want to be credited as
 
+### Step 2.5: PBR definition
+
+If you are planning to use PBR textures with your pack, download [this zip](https://drive.google.com/file/d/10g38RSKxBtkYsvBq01Lzrq4G2sL1Pa70/view?usp=sharing) and extract the contents into the root of your pack (the part with `manifest.json` in it)
+
+If you are unsure of what any of this means or if you are not using PBR, just ignore this step and move on to step 3
+
 ### Step 3: Icon
 
 You *can* skip this step, although I would advise that you still create your own icon to differentiate your preset from others.
