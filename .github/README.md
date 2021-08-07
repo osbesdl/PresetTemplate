@@ -4,9 +4,9 @@ This document will walk you through the usage of this template step-by-step to c
 
 ### Step 1: Template Download
 
-First of all, download this template by clicking on the green "Code" button at the top of the page.
+First of all, download this template by clicking [here](https://github.com/osbesdl/PresetTemplate/releases), and select the OSBES version you want to make your preset for (if you're not sure, just use the most recent one)
 
-Next, click "Download ZIP", and save the file to your computer.
+Next, click "Source Code (zip)", and save the file to your computer.
 
 You'll then want to unzip this folder onto anywhere on your computer, rename it to whatever you want to name your pack, and open the folder.
 
