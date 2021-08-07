@@ -17,10 +17,10 @@
     "metadata": {
       "authors": ["YOUR NAME"]
     },
-	"dependencies": [
-		{
+    "dependencies": [
+        {
             "uuid": "67010235-00f4-0484-8b1d-80b110011997",
-			"version": [0, 13, 2]
-		}
-	]
+            "version": [0, 13, 2]
+        }
+    ]
 }
