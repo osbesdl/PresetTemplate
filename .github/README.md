@@ -26,7 +26,7 @@ After you have entered the pack folder, open the file `manifest.json` with a tex
 
 ### Step 2.5: PBR definition
 
-If you have PBR textures included within your pack, download [this zip](https://drive.google.com/file/d/1fq0sw9H99-9MKoUr2wokpT3RKXHck-CM/view?usp=sharing) and extract the contents into the root of your pack (the part with `manifest.json` in it)
+If you have PBR textures included within your pack, download the zip matching your version from [here](https://drive.google.com/drive/folders/1RvekcU8-sSmXTdDipJdi1NCB2CkcLjS4?usp=sharing) and extract the contents into the root of your pack (the part with `manifest.json` in it)
 
 If you are unsure of what any of this means or if you are not using PBR, just ignore this step and move on to step 3
 
